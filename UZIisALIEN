@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>UZIisALIEN Page</title>
+<link rel="icon" type="image/png" href="uziisalian.jpeg">
+<style>
+  .DeonsGamingbacktomainButton {
+background-color: #FF6B00;
+color: #39FF14;
+font-size: 15px;
+padding: 12px;
+border: none;
+border-radius: 5px;
+cursor: pointer; 
+}
+
+.DeonsGamingbacktomainButton:hover {
+background-color: #CC2299;
+}
+</style>
+</head>
+<body style="background-color:#5B5C61; color:white;">
+<button class="DeonsGamingbacktomainButton" onclick="window.location.href='https://deonsgamingmods.github.io/Gaming-Without-Borders-Website/Main%20Page.html'">Back to Main Page</button>
+<h1>DeonsGaming</h1>
+<img src="uziisalian.jpeg" width="250" height="250"  alt="UZIisALIEN Logo">
+<h2>About Me:</h2>
+<p>Country: Pakistan
+<br>
+<br>languages i can speak (urdu , hindi english , etc)
+<br>
+<br>hobby : sitting idle 
+<br>
+<br>favourite games : minecraft , gta5 ,freefire(left)</p>
+
+<h2>Social Media Accounts:</h2>
+<button class="DeonsGamingbacktomainButton" onclick="window.location.href='https://www.youtube.com/@UZIisALIEN'">Youtube</button>
+
+<h2>My Milestones:</h2>
+<p>-500 Subs on Youtube
+<br>-more coming soon</p>
+
+</body>
+</html>
